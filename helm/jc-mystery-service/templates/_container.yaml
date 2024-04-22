@@ -1,0 +1,2 @@
+{{- define "jc-mystery-service.container" -}}
+{{- end -}}
